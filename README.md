@@ -53,7 +53,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![기술 다이어그램](https://github.com/ritsukooo/hw/assets/159987685/ed125161-8cb5-45c5-8b5d-259ca3ccbed9)
 
 
 ## 📌 주요 기능
@@ -100,3 +99,14 @@ EMR (진료 기록관련)
 의료진 관련
 
 의료진 데이터 CRU
+
+
+## 프로젝트 아키텍쳐
+
+![기술 다이어그램](https://github.com/ritsukooo/hw/assets/159987685/ed125161-8cb5-45c5-8b5d-259ca3ccbed9)
+
+
+
+
+
+
