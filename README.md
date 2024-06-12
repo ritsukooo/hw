@@ -53,11 +53,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
+![기술 다이어그램](https://github.com/ritsukooo/hw/assets/159987685/ed125161-8cb5-45c5-8b5d-259ca3ccbed9)
+
 
 ## 📌 주요 기능
 
-
-https://docs.google.com/spreadsheets/d/1ygR2d3qv8T-GOCpKKjD7No1jeWYWcizmtUxoSVP73N4/edit#gid=1333301150
 
 EMR (진료 기록관련)
 
